@@ -14,7 +14,7 @@ if (process.env.MYSQLCONNSTR_localdb) {
                     "user" : "azure",
                     "password" : "6#vWHD_$",
                     "database" : "tehtavalista",
-                    "port" : 50369
+                    "port" : 52391
                 }
 
 }
